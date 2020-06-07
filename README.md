@@ -1,1 +1,2 @@
 # AirCnC-Backend
+The back-end side was implemented with Node.js. On the back-end side, available rent house information was stored with details. This information was sent into the front-end side if a user wants to rent a house. User login and sign up information were stored on the backend side for authentication. The authentication process was implemented with JWT. MongoDB was used for the database.
